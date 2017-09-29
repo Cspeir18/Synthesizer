@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="button1">F Button</string>
+    <string name="button2">E Button</string>
+    <string name="button3">Challenge 1</string>
+    <string name="button4">Challenge 2</string>
+    <string name="button5">Twinkle</string>
+    <string name="checkbox">Second Line?</string>
+    <string name="button6">Jingle Bells</string>
+</resources>
